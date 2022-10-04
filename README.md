@@ -1,5 +1,5 @@
 # masterthesis
-In course of my master thesis I created a software test visualization system to visualize the resukts of automatic software tests.
+In course of my master thesis I created a software test visualization system to visualize the results of automatic software tests.
 
 To use the program to visualize automatic software test results, the following data is needed:
 
